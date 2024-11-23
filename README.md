@@ -20,7 +20,7 @@ This is a fully functional calculator built using HTML, CSS, and JavaScript, dev
 
 ## Demo
 
-You can check the live demo of the project [here](https://github.com/user-attachments/assets/c0b55970-def0-4c06-a148-d34afc2a3802)
+You can check the live demo of the project [here](https://rabumaabraham.github.io/OIBSIP-LEVEL2-TASK1/)
 
 ## Technologies Used
 
@@ -55,4 +55,5 @@ You can check the live demo of the project [here](https://github.com/user-attach
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/575c582a-ae6a-4b19-9dad-02dd69b14cb0)
+![image](https://github.com/user-attachments/assets/d7c4560e-da24-4197-8a32-0dcc2bb950ab)
+
