@@ -20,7 +20,8 @@ This is a fully functional calculator built using HTML, CSS, and JavaScript, dev
 
 ## Demo
 
-You can check the live demo of the project [here](https://rabumaabraham.github.io/Quiz-App/) 
+You can check the live demo of the project [here](https://github.com/user-attachments/assets/c0b55970-def0-4c06-a148-d34afc2a3802)
+
 ## Technologies Used
 
 - HTML: Markup for the structure and layout of the calculator.
