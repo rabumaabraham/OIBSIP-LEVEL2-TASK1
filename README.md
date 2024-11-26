@@ -1,6 +1,6 @@
 # Calculator
 
-This is a fully functional calculator built using HTML, CSS, and JavaScript, developed during my web development and design internship at Oasis Infobyte. The calculator supports basic mathematical operations such as addition, subtraction, multiplication, and division, and it has an interactive interface that allows users to perform calculations.
+This is a fully functional calculator built using HTML, CSS, and JavaScript, developed during my web development and designing internship at Oasis Infobyte. The calculator supports basic mathematical operations such as addition, subtraction, multiplication, and division, and it has an interactive interface that allows users to perform calculations.
 
 ## Table of Contents
 
